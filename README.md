@@ -45,5 +45,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como testar o projeto
 
--   Você pode testar o projeto aqui: **[Live Code]()**
+-   Você pode testar o projeto aqui: **[Live Code](https://imccalculator.vercel.app/)**
 ---
