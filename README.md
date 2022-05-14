@@ -37,8 +37,8 @@ Calculadora de imc feita com ReactJS.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[ReactJS](https://github.com/topics/javascript)**
--   **[Css3](https://github.com/topics/css)**
+-   **[ReactJS](https://github.com/topics/react)**
+-   **[CSS3](https://github.com/topics/css)**
 
 ---
 <br>
