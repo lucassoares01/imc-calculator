@@ -20,7 +20,7 @@ O layout do projeto:
 ### Mobile
 
 <p align="center">
-  <img src="./github/calculatoromobile.gif">
+  <img src="./github/calculatormobile.gif">
 </p>
 
 ---
